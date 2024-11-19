@@ -4,24 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9234e1a-72d8-42ab-bffe-55a3bc8d9bf7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+    <list default="true" id="a9234e1a-72d8-42ab-bffe-55a3bc8d9bf7" name="Changes" comment="7th nov">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab019_Builtin_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab020_Userinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab021_User_input_Sum of two numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/lab017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab006_Variable_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab006_Variable_Types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab007_Variables_Identifier_Rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab007_Variables_Identifier_Rules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab008_Dynamically_Typed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab008_Dynamically_Typed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab014_Mtah_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab014_Mtah_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_identifiers_varriables/Lab016.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,24 +53,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001_Python_HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_Python_Basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007_Variables_Identifier_Rules.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008_Dynamically_Typed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014_Mtah_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001_Python_HelloWorld.executor": "Run",
+    "Python.Lab003_Python_Basics.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007_Variables_Identifier_Rules.executor": "Run",
+    "Python.Lab008_Dynamically_Typed.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014_Mtah_Functions.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019_Builtin_functions.executor": "Run",
+    "Python.Lab020_Userinput.executor": "Run",
+    "Python.Lab021_User_input_Sum of two numbers.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Lab001_Python_HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -124,6 +122,15 @@
       <option name="presentableId" value="Default" />
       <updated>1731382110654</updated>
     </task>
+    <task id="LOCAL-00001" summary="7th nov">
+      <option name="closed" value="true" />
+      <created>1732011183394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732011183394</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,5 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="7th nov" />
   </component>
 </project>
