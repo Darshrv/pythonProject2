@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9234e1a-72d8-42ab-bffe-55a3bc8d9bf7" name="Changes" comment="9th nov">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab022_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab023_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab024_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab025_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab026_Escape_Char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab027_Escape_Char.py" afterDir="false" />
+    <list default="true" id="a9234e1a-72d8-42ab-bffe-55a3bc8d9bf7" name="Changes" comment="9th nov- Part2">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab031_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab032_Operators_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab033_Operators_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab034_Operators_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab035_Operator_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab036_Operators_P5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab037_Operators_P6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab038_Opertaors_P7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab039_Operators_P8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab040_Ternary_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab041_User_Input_Ternary_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab042_Coding_Q.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +81,18 @@
     "Python.Lab022_Strings.executor": "Run",
     "Python.Lab023_strings.executor": "Run",
     "Python.Lab026_Escape_Char.executor": "Run",
+    "Python.Lab027_Escape_Char.executor": "Run",
+    "Python.Lab030_Operators.executor": "Run",
+    "Python.Lab031_Operators.executor": "Run",
+    "Python.Lab032_Operators_P1.executor": "Run",
+    "Python.Lab035_Operator_P4.executor": "Run",
+    "Python.Lab036_Operators_P5.executor": "Run",
+    "Python.Lab037_Operators_P6.executor": "Run",
+    "Python.Lab038_Opertaors_P7.executor": "Run",
+    "Python.Lab039_Operators_P8.executor": "Run",
+    "Python.Lab040_Ternary_Operators.executor": "Run",
+    "Python.Lab041_User_Input_Ternary_Operator.executor": "Run",
+    "Python.Lab042_Coding_Q.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -139,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732017214254</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="9th nov- Part2">
+      <option name="closed" value="true" />
+      <created>1732020432631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732020432631</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7th nov" />
     <MESSAGE value="9th nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th nov" />
+    <MESSAGE value="9th nov- Part2" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th nov- Part2" />
   </component>
 </project>
