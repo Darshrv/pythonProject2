@@ -4,21 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9234e1a-72d8-42ab-bffe-55a3bc8d9bf7" name="Changes" comment="9th nov- Part2">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab031_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab032_Operators_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab033_Operators_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab034_Operators_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab035_Operator_P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab036_Operators_P5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab037_Operators_P6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab038_Opertaors_P7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab039_Operators_P8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab040_Ternary_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab041_User_Input_Ternary_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab042_Coding_Q.py" afterDir="false" />
+    <list default="true" id="a9234e1a-72d8-42ab-bffe-55a3bc8d9bf7" name="Changes" comment="12th Nov">
+      <change afterPath="$PROJECT_DIR$/Nov/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab046_If_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab047_Grade_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab049_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab050_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab051_While_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab052_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab053_For_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab054_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab055_Pass_Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab056_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab057_Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab058_Match_Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_14112024_Condition_Loops/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_14112024_Condition_Loops/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_14112024_Condition_Loops/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_14112024_Condition_Loops/Lab046_If_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_14112024_Condition_Loops/Lab047_Grade_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_14112024_Condition_Loops/Lab048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_14112024_Condition_Loops/Lab049_For_Loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +102,18 @@
     "Python.Lab040_Ternary_Operators.executor": "Run",
     "Python.Lab041_User_Input_Ternary_Operator.executor": "Run",
     "Python.Lab042_Coding_Q.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab046_If_else.executor": "Run",
+    "Python.Lab047_Grade_Calculator.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab049_For_Loop.executor": "Run",
+    "Python.Lab053_For_break.executor": "Run",
+    "Python.Lab054_Q.executor": "Run",
+    "Python.Lab055_Pass_Break.executor": "Run",
+    "Python.Lab056_Q.executor": "Run",
+    "Python.Lab057_Continue.executor": "Run",
+    "Python.Lab058_Match_Statement.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -167,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732020432631</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="12th Nov">
+      <option name="closed" value="true" />
+      <created>1732113282372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732113282372</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +214,7 @@
     <MESSAGE value="7th nov" />
     <MESSAGE value="9th nov" />
     <MESSAGE value="9th nov- Part2" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th nov- Part2" />
+    <MESSAGE value="12th Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="12th Nov" />
   </component>
 </project>
