@@ -8,4 +8,4 @@ def make_pizza(*toppings):
         print(i)
 pramod=make_pizza("tommato","olives")
 Jayati=make_pizza("pineapple","olives","panner")
-vinay=make_pizza("tomatto")
+vinay=make_pizza("tomatto") 
