@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9234e1a-72d8-42ab-bffe-55a3bc8d9bf7" name="Changes" comment="19th Nov">
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab072_Local_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab073_Inner_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab074_Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab075_Decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab076_WDecorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab077_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab078_FizzBuzz_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab079_Triangle_Classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab080_Type_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab081_for_loop.py" afterDir="false" />
+    <list default="true" id="a9234e1a-72d8-42ab-bffe-55a3bc8d9bf7" name="Changes" comment="21th Nov">
+      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab090_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab091_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab092_Lambda_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab093_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab094_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab095_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab096_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab097_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab098_Set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/exe_19112024_Functions/Lab069_Real_Args.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/exe_19112024_Functions/Lab069_Real_Args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab081_for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab081_for_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +121,13 @@
     "Python.Lab079_Triangle_Classifier.executor": "Run",
     "Python.Lab080_Type_Conversion.executor": "Run",
     "Python.Lab081_for_loop.executor": "Run",
+    "Python.Lab090_Lambda.executor": "Run",
+    "Python.Lab091_Lambda.executor": "Run",
+    "Python.Lab092_Lambda_Mul.executor": "Run",
+    "Python.Lab093_Lambda.executor": "Run",
+    "Python.Lab094_List.executor": "Run",
+    "Python.Lab096_Tuple.executor": "Run",
+    "Python.Lab098_Set.executor": "Run",
     "Python.o_Decorator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -223,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732191632672</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="21th Nov">
+      <option name="closed" value="true" />
+      <created>1732255864615</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732255864615</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +256,7 @@
     <MESSAGE value="12th Nov" />
     <MESSAGE value="16th Nov" />
     <MESSAGE value="19th Nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="19th Nov" />
+    <MESSAGE value="21th Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="21th Nov" />
   </component>
 </project>
