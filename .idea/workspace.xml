@@ -4,18 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9234e1a-72d8-42ab-bffe-55a3bc8d9bf7" name="Changes" comment="21th Nov">
-      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab090_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab091_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab092_Lambda_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab093_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab094_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab095_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab096_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab097_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/exe_23112024_Lambda_Maps_Filters/Lab098_Set.py" afterDir="false" />
+    <list default="true" id="a9234e1a-72d8-42ab-bffe-55a3bc8d9bf7" name="Changes" comment="23rd Nov">
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab099_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab100_Dict_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab101_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab102_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab103_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab104_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab105_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab106_Dict_IQ_Max_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab107_IQ_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab108_IQ_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab109_Dict_Duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/Lab110_IQ_Count_Vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/exe_26112024_Dict/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab081_for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/exe_21112024_Function_Scopes/Lab081_for_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +131,16 @@
     "Python.Lab094_List.executor": "Run",
     "Python.Lab096_Tuple.executor": "Run",
     "Python.Lab098_Set.executor": "Run",
+    "Python.Lab099_Dict.executor": "Run",
+    "Python.Lab100_Dict_P2.executor": "Run",
+    "Python.Lab102_Dict.executor": "Run",
+    "Python.Lab103_Dict.executor": "Run",
+    "Python.Lab104_Dict.executor": "Run",
+    "Python.Lab106_Dict_IQ_Max_Values.executor": "Run",
+    "Python.Lab107_IQ_Dict.executor": "Run",
+    "Python.Lab108_IQ_Dict.executor": "Run",
+    "Python.Lab109_Dict_Duplicate.executor": "Run",
+    "Python.Lab110_IQ_Count_Vowel.executor": "Run",
     "Python.o_Decorator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -235,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732255864615</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="23rd Nov">
+      <option name="closed" value="true" />
+      <created>1732538431122</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732538431122</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,6 +278,7 @@
     <MESSAGE value="16th Nov" />
     <MESSAGE value="19th Nov" />
     <MESSAGE value="21th Nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="21th Nov" />
+    <MESSAGE value="23rd Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="23rd Nov" />
   </component>
 </project>
